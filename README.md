@@ -1,4 +1,4 @@
-# Spotify Playlist Song Downloader (No Selenium Version)
+# Spotify Playlist Song Downloader
 
 This project scrapes songs and their authors from a Spotify playlist without using Selenium. It uses `beautifulsoup4` for scraping the playlist and `pytube` to search and download the songs from YouTube.
 
